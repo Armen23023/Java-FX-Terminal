@@ -1,4 +1,6 @@
 # Lab-project
+# File system emulator
+
 The user can work with the following commands:
 ● ls - lists all the content if the folder it is inside
 ● mkdir fld - creates folder named fld
