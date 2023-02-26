@@ -1,4 +1,4 @@
-# Lab-project
+# Lab-project Java-FX Terminal
 # File system emulator
 
 The user can work with the following commands:
